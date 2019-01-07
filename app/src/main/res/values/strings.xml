@@ -5,12 +5,17 @@
     <string name="prev">Prev</string>
     <string name="todo_list">Todo list!</string>
 
+    <string name="About_Me">About Me</string>
+    <string name="Help">Help</string>
+
     <string-array name="todo">
+        <item>Hello World</item>
         <item>Wake up</item>
         <item>Drink Coffee</item>
         <item>Make at least one person laugh</item>
         <item>Plant a tree</item>
         <item>Go to sleep</item>
+        <item>Finish</item>
     </string-array>
 
 </resources>
